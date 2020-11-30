@@ -1,0 +1,6 @@
+framework module Pods_NetworkCallWithAlamofireTests {
+  umbrella header "Pods-NetworkCallWithAlamofireTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
